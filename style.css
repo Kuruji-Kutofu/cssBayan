@@ -16,14 +16,6 @@
     display: block;
 }
 
-.images.with-transition {
-    transition: 1s;
-}
-
-.hovered {
-    display: ;
-}
-
 .row {
     width: 500px;
     display: flex;
