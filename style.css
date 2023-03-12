@@ -1,0 +1,33 @@
+
+
+.icons {
+    width: 16px;
+    height: 16px;
+}
+
+.images {
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    display: none;
+}
+
+.images:hover {
+    display: block;
+}
+
+.images.with-transition {
+    transition: 1s;
+}
+
+.hovered {
+    display: ;
+}
+
+.row {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
